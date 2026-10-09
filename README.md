@@ -4,6 +4,8 @@
 
 Want to build with AI without juggling a separate integration for every provider? [xKiro](https://xkiro.com) brings access to multiple AI models together through a single API, making it easier to try different models, keep your app flexible, and manage your AI usage in one place.
 
+![xKiro model catalog and pricing plans](assets/xkiro-models-and-pricing.png)
+
 ### Why try xKiro?
 
 - **One integration:** Connect to multiple models through one API instead of maintaining provider-specific setups.
